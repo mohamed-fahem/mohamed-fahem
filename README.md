@@ -13,7 +13,7 @@
 
 - 🏢 I'm a Software Engineer and Dotnet Developer 
 - 👨‍💻 As a Computer Science graduate, I am constantly learning and discovering new techniques to improve my skills.
-- 💬 Ask me about my experience with Dotnet Core, Entity Framework Core, and C#, or anything related to backend(dotnet) development.
+- 💬 Ask me about my experience with Dotnet Core, Entity Framework Core, and C#, or anything related to backen development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 
