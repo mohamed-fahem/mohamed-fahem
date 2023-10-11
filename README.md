@@ -41,7 +41,7 @@
 <a href="https://github-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/> </a> 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/M/microsoft-visual-studio-logo-9E65CA55F8-seeklogo.com.png" alt="microsoft-visual-studio" width="40" height="40"/>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.stackshare.io/service/11331/asp.net-core.png" alt="dotnet-core" width="40" height="40"/>
+
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.0ba8754f32267b7bfdcac97efe8559b7?rik=4%2bnE%2fYNYLNjDXg&pid=ImgRaw&r=0" alt="dotnet-core" width="40" height="40"/>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.ef346836eee7ef54c7b0c1d69b1863b3?rik=NrY4jTxj8USmOQ&riu=http%3a%2f%2fwww.howcsharp.com%2fimg%2f0%2f53%2flanguage-integrated-query-linq-300x263.jpg&ehk=vSHikIoJiY9hgkcbNfdCITOZsq16hbYEU7ULlGN4qy0%3d&risl=&pid=ImgRaw&r=0" alt="dotnet-core" width="40" height="40"/>
   
